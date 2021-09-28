@@ -1,1 +1,5 @@
-Abner Ferreira de Sousa
+Repositorio para a dinamica proposta pelo Atanes.
+
+- Breno Santos Ferreira
+- Samuel De Alencar
+- Felipe Barboza
