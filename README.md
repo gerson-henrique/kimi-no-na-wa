@@ -1,3 +1,4 @@
+
 # kimi-no-na-wa
 Repositorio para a gincana que não deu certo ontem
 
@@ -5,3 +6,4 @@ Repositorio para a gincana que não deu certo ontem
 - Samuel De Alencar
 - Felipe Barboza
 - Gabriel Muniz
+- Pedro Goulart
