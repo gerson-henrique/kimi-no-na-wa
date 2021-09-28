@@ -1,4 +1,6 @@
 # kimi-no-na-wa
 Repositorio para a gincana que não deu certo ontem
 
-Breno Santos
+- Breno Santos ferreira
+- Samuel De Alencar
+- Felipe Barboza
