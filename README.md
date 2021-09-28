@@ -1,8 +1,9 @@
-Repositorio para a dinamica proposta pelo Atanes.
+Repositorio para a gincana que não deu certo ontem
 
 - Breno Santos Ferreira
 - Samuel De Alencar
 - Felipe Barboza
+- Abner Ferreira de Sousa
 - Jonatas Queiroz Lima
 - Vinicius Fonseca Silva
 - Elthon o/
