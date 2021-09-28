@@ -1,9 +1,10 @@
-
-# kimi-no-na-wa
-Repositorio para a gincana que não deu certo ontem
+Repositorio para a dinamica proposta pelo Atanes.
 
 - Breno Santos Ferreira
 - Samuel De Alencar
 - Felipe Barboza
 - Gabriel Muniz
 - Pedro Goulart
+- Bruce Alberto
+- Tiago Meireles passou da turma 17 passou aqui.
+- Aqui é o yang respeita o pai!
