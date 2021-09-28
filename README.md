@@ -11,4 +11,4 @@ Repositorio para a dinamica proposta pelo Atanes.
 - Pedro Goulart
 - Bruce Alberto
 - Tiago Meireles passou da turma 17 passou aqui.
-- Aqui é o yang respeita o pai!
+- Aqui é o yang respeita o pai!Ruy Barbosa Jr da T17 :P
