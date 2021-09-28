@@ -1,5 +1,5 @@
 Repositorio para a dinamica proposta pelo Atanes.
 
-- Breno Santos Ferreira
+- Breno Santos ferreira
 - Samuel De Alencar
 - Felipe Barboza
