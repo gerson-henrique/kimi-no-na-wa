@@ -1,5 +1,4 @@
-# kimi-no-na-wa
-Repositorio para a gincana que não deu certo ontem
+Repositorio para a dinamica proposta pelo Atanes.
 
 - Breno Santos Ferreira
 - Samuel De Alencar
