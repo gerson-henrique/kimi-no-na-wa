@@ -3,6 +3,7 @@ Repositorio para a dinamica proposta pelo Atanes.
 - Breno Santos Ferreira
 - Samuel De Alencar
 - Felipe Barboza
+- Leonardo Kotlarenko
 - Kelson Batista
 - Gabriel Muniz
 - Pedro Goulart
