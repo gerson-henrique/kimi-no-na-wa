@@ -15,3 +15,4 @@ Repositorio para a gincana que não deu certo ontem
 - Tiago Meireles passou da turma 17 passou aqui.
 - Aqui é o yang respeita o pai!
 - Ruy Barbosa Jr da T17 :P
+- Gero esteve aqui!
